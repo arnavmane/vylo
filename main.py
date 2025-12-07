@@ -58,7 +58,7 @@ async def on_ready():
 
 @bot.event
 async def on_member_join(member):
-    await member.send(f"Hello, {member.name}, welcome to the {discord.Guild}!")
+    await member.send(f"Hello {member.name}, welcome to the {member.guild.name}!")
 
 @bot.event
 async def on_message(message):

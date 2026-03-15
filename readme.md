@@ -50,7 +50,6 @@
     - Create a `.env` file in the root directory:
       ```env
       BOT_TOKEN=your_discord_bot_token_here
-      LOG_CHANNEL_ID=your_log_channel_id_here
       ```
 
 5.  **Run**:
@@ -64,5 +63,4 @@
 - **Ticket System**: Private support channels for users.
 - **Auto-Moderation**: AI-powered anti-spam and toxicity filters.
 
----
-*Built with ❤️ using Python & Discord.py*
+*Built with ❤️ using Python & Discord.py :)*

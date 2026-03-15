@@ -14,9 +14,6 @@
 __pycache__/
 *.pyc
 
-# Binaries
-ffmpeg.exe
-ffmpeg
 
 # IDEs
 .vscode/

@@ -46,9 +46,11 @@
     - Download `ffmpeg.exe` and place it in the root folder (for Music support).
 
 4.  **Configure Environment**:
-    - Create a `.env` file based on `.env.example`:
+    - Ensure you have **Python 3.10+** installed.
+    - Create a `.env` file in the root directory:
       ```env
       BOT_TOKEN=your_discord_bot_token_here
+      LOG_CHANNEL_ID=your_log_channel_id_here
       ```
 
 5.  **Run**:

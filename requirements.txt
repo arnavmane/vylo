@@ -1,0 +1,6 @@
+discord.py
+python-dotenv
+aiosqlite
+yt-dlp
+PyNaCl
+aiohttp
